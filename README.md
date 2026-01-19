@@ -16,6 +16,7 @@ It includes SOC estimation algorithms, thermal modeling, firmware for STM32, and
 - KiCad  
 - Python for data analysis
 
+
 ## Folder Overview
 | Folder | Description |
 |---------|--------------|
@@ -24,6 +25,7 @@ It includes SOC estimation algorithms, thermal modeling, firmware for STM32, and
 | `/Hardware` | Circuit and PCB design files |
 | `/Documentation` | Reports, results, and presentations |
 | `/Python_Tools` | Scripts for testing and analysis |
+
 
 ## How to Run
 1. Open `Simulations/BMS_SOC_Model.slx` in MATLAB.
